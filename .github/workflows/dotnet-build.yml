@@ -16,7 +16,7 @@ jobs:
           echo "🔧 Runner OS: ${{ runner.os }}"
           echo "📦 Repository: ${{ github.repository }}"
           echo "📂 Workflow: ${{ github.workflow }}"
-          echo "🚀 Triggered: ${{ github.event_name }}" 
+          echo "🚀 Triggered by: ${{ github.event_name }}" 
           echo "🥷 Actor: ${{ github.actor }}"
           echo "🔢 Run number: ${{ github.run_number }}"
           echo "🌿 Branch: ${{ github.ref }}"
