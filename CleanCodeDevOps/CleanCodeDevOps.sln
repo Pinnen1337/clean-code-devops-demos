@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCodeDevOps.App", "CleanCodeDevOps.App\CleanCodeDevOps.App.csproj", "{3044AA76-2DC7-4785-A275-CA09C29FCD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3044AA76-2DC7-4785-A275-CA09C29FCD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3044AA76-2DC7-4785-A275-CA09C29FCD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3044AA76-2DC7-4785-A275-CA09C29FCD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3044AA76-2DC7-4785-A275-CA09C29FCD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
